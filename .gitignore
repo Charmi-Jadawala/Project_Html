@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Ignore .vs folder and all files having .vs extensions
+.vs/
+*.vs
